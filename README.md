@@ -39,4 +39,4 @@ An end-to-end environmental data science project that predicts hourly fine parti
 
 ## Tech Stack
 * **Data Processing & ML:** `pandas`, `numpy`, `scikit-learn`, `xgboost`, `lightgbm`
-* **Deployment & APIs:** `streamlit`, `requests`, OpenWeather API[cite: 206, 207]
+* **Deployment & APIs:** `streamlit`, `requests`, OpenWeather API
